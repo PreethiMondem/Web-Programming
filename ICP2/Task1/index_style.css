@@ -1,0 +1,35 @@
+#heading
+{
+   padding: 10px;
+}
+
+h1
+{
+  font-size: 50px;
+}
+
+#menu
+{
+  padding-bottom: 15px;
+}
+a
+{
+  padding-right: 160px;
+}
+
+img
+{
+  width:250px;
+  height:250px;
+}
+
+b
+{
+  padding-right: 350px;
+}
+
+#video
+{
+  padding-top:80px;
+  text-align: center;
+}
