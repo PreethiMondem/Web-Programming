@@ -1,0 +1,11 @@
+button
+{
+  min-width: 50%;
+  min-height: 5%;
+  padding:7%;
+  background:#00ff00;
+}
+
+* {
+  box-sizing: border-box;
+}
